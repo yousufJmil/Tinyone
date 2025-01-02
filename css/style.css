@@ -1,0 +1,50 @@
+@font-face{
+	 src: url(../fonts/opensans-regular.ttf);
+	 font-family: opensans-regular ;
+}
+@font-face{
+	 src: url(../fonts/opensans-bold.ttf);
+	 font-family: opensans-bold ;
+}
+@font-face{
+	 src: url(../fonts/opensans-regular.ttf);
+	 font-family: opensans-regular ;
+}
+
+/*...common part start....*/
+
+body{
+    font-family: "Open Sans", serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #898989;
+}
+/*...common part end....*/
+
+/*font-family: "Ubuntu", sans-serif;*/
+
+ /*  tinyone header css part start*/
+ header{
+ 	background-color: #fcbd00 ;
+ 	padding: 20px 0 ;
+ }
+ .c_nav{}
+ .logo{}
+ .menu{}
+ .menu ul li a{
+ 	font-size: 22px ;
+ 	font-weight: 700 ;
+ 	color: #010101 !important;
+ 	margin: 0 30px !important;
+ }
+ .menu ul li:last-child a{
+ 	padding-right: 0 !important;
+ }
+
+.menu ul li a:hover{
+	color: white !important;
+
+}
+ 
+	  
+ /*  tinyone header css part end*/}
